@@ -34,7 +34,7 @@ Um jogo de Sudoku desenvolvido em Python com Flask, oferecendo uma experiência 
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/runawaydevil/sudoku-web.git
+git clone https://github.com/runawaydevil/sudoku.git
 cd sudoku-web
 ```
 
