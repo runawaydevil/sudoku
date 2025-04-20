@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="200" fill="#4CAF50"/>
+    <rect x="10" y="10" width="180" height="180" fill="white"/>
+    <rect x="10" y="10" width="180" height="180" fill="none" stroke="#4CAF50" stroke-width="4"/>
+    
+    <!-- Linhas horizontais -->
+    <line x1="10" y1="70" x2="190" y2="70" stroke="#4CAF50" stroke-width="4"/>
+    <line x1="10" y1="130" x2="190" y2="130" stroke="#4CAF50" stroke-width="4"/>
+    
+    <!-- Linhas verticais -->
+    <line x1="70" y1="10" x2="70" y2="190" stroke="#4CAF50" stroke-width="4"/>
+    <line x1="130" y1="10" x2="130" y2="190" stroke="#4CAF50" stroke-width="4"/>
+    
+    <!-- Números de exemplo -->
+    <text x="30" y="45" font-family="Arial" font-size="24" fill="#4CAF50" text-anchor="middle">1</text>
+    <text x="100" y="45" font-family="Arial" font-size="24" fill="#4CAF50" text-anchor="middle">2</text>
+    <text x="170" y="45" font-family="Arial" font-size="24" fill="#4CAF50" text-anchor="middle">3</text>
+    <text x="30" y="105" font-family="Arial" font-size="24" fill="#4CAF50" text-anchor="middle">4</text>
+    <text x="100" y="105" font-family="Arial" font-size="24" fill="#4CAF50" text-anchor="middle">5</text>
+    <text x="170" y="105" font-family="Arial" font-size="24" fill="#4CAF50" text-anchor="middle">6</text>
+    <text x="30" y="165" font-family="Arial" font-size="24" fill="#4CAF50" text-anchor="middle">7</text>
+    <text x="100" y="165" font-family="Arial" font-size="24" fill="#4CAF50" text-anchor="middle">8</text>
+    <text x="170" y="165" font-family="Arial" font-size="24" fill="#4CAF50" text-anchor="middle">9</text>
+</svg> 
